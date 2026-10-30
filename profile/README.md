@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://forgeax.github.io/logo.svg" width="104" alt="ForgeAX" />
+  <img src="https://raw.githubusercontent.com/ForgeaXGame/.github/main/profile/tiangong-logo.svg" width="104" alt="天工引擎 ForgeAX Engine" />
 </p>
 
 <h1 align="center">ForgeAX</h1>
