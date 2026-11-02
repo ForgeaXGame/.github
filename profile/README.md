@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ForgeaXGame/.github/main/profile/tiangong-logo.svg" width="104" alt="天工引擎 ForgeAX Engine" />
+  <img src="https://raw.githubusercontent.com/ForgeaXGame/.github/main/profile/tiangong-logo.svg" width="104" alt="ForgeAX Engine" />
 </p>
 
 <h1 align="center">ForgeAX</h1>
@@ -27,10 +27,12 @@
 
 <table>
   <tr>
-    <td width="25%" align="center"><a href="https://forgeax.github.io/games/tiangong-warframe/"><img src="https://forgeax.github.io/assets/games/covers/tiangong-warframe.jpg" width="100%" alt="Tiangong Warframe / 天工战甲" /></a><br/><sub><a href="https://forgeax.github.io/games/tiangong-warframe/"><strong>天工战甲</strong></a><br/>Tiangong Warframe</sub></td>
-    <td width="25%" align="center"><a href="https://forgeax.github.io/games/ai-weapon-spirit/"><img src="https://forgeax.github.io/assets/games/covers/ai-weapon-spirit.png" width="100%" alt="AI Weapon Spirit / 器灵" /></a><br/><sub><a href="https://forgeax.github.io/games/ai-weapon-spirit/"><strong>器灵</strong></a><br/>AI Weapon Spirit</sub></td>
-    <td width="25%" align="center"><a href="https://forgeax.github.io/games/hellforge/"><img src="https://forgeax.github.io/assets/games/covers/hellforge.webp" width="100%" alt="Hellforge / 地狱熔炉" /></a><br/><sub><a href="https://forgeax.github.io/games/hellforge/"><strong>地狱熔炉</strong></a><br/>Hellforge</sub></td>
-    <td width="25%" align="center"><a href="https://forgeax.github.io/games/planet-snake/"><img src="https://forgeax.github.io/assets/games/covers/planet-snake.jpg" width="100%" alt="Planet Snake / 星球贪吃蛇" /></a><br/><sub><a href="https://forgeax.github.io/games/planet-snake/"><strong>星球贪吃蛇</strong></a><br/>Planet Snake</sub></td>
+    <td width="50%" align="center"><a href="https://forgeax.github.io/games/tiangong-warframe/"><img src="https://forgeax.github.io/assets/games/covers/tiangong-warframe.jpg" width="100%" alt="Tiangong Warframe" /></a><br/><a href="https://forgeax.github.io/games/tiangong-warframe/"><strong>Tiangong Warframe</strong></a></td>
+    <td width="50%" align="center"><a href="https://forgeax.github.io/games/ai-weapon-spirit/"><img src="https://forgeax.github.io/assets/games/covers/ai-weapon-spirit.png" width="100%" alt="AI Weapon Spirit" /></a><br/><a href="https://forgeax.github.io/games/ai-weapon-spirit/"><strong>AI Weapon Spirit</strong></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://forgeax.github.io/games/hellforge/"><img src="https://forgeax.github.io/assets/games/covers/hellforge.webp" width="100%" alt="Hellforge" /></a><br/><a href="https://forgeax.github.io/games/hellforge/"><strong>Hellforge</strong></a></td>
+    <td width="50%" align="center"><a href="https://forgeax.github.io/games/planet-snake/"><img src="https://forgeax.github.io/assets/games/covers/planet-snake.jpg" width="100%" alt="Planet Snake" /></a><br/><a href="https://forgeax.github.io/games/planet-snake/"><strong>Planet Snake</strong></a></td>
   </tr>
 </table>
 
