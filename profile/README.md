@@ -27,10 +27,10 @@
 
 <table>
   <tr>
-    <td width="25%" align="center"><img src="https://forgeax.github.io/assets/games/covers/hellforge.jpg" width="100%" alt="Hellforge" /><br/><sub><strong>Hellforge</strong><br/>ARPG / 3D</sub></td>
-    <td width="25%" align="center"><img src="https://forgeax.github.io/assets/games/covers/planet-snake.jpg" width="100%" alt="Planet Snake" /><br/><sub><strong>Planet Snake</strong><br/>3D Survival</sub></td>
-    <td width="25%" align="center"><img src="https://forgeax.github.io/assets/games/covers/go-karts.jpg" width="100%" alt="Pet Go-Karts" /><br/><sub><strong>Pet Go-Karts</strong><br/>Racing / 3D</sub></td>
-    <td width="25%" align="center"><img src="https://forgeax.github.io/assets/games/covers/ai-weapon-spirit.png" width="100%" alt="AI Weapon Spirit" /><br/><sub><strong>AI Weapon Spirit</strong><br/>ARPG / 3D</sub></td>
+    <td width="25%" align="center"><a href="https://forgeax.github.io/games/tiangong-warframe/"><img src="https://forgeax.github.io/assets/games/covers/tiangong-warframe.jpg" width="100%" alt="Tiangong Warframe / 天工战甲" /></a><br/><sub><a href="https://forgeax.github.io/games/tiangong-warframe/"><strong>天工战甲</strong></a><br/>Tiangong Warframe</sub></td>
+    <td width="25%" align="center"><a href="https://forgeax.github.io/games/ai-weapon-spirit/"><img src="https://forgeax.github.io/assets/games/covers/ai-weapon-spirit.png" width="100%" alt="AI Weapon Spirit / 器灵" /></a><br/><sub><a href="https://forgeax.github.io/games/ai-weapon-spirit/"><strong>器灵</strong></a><br/>AI Weapon Spirit</sub></td>
+    <td width="25%" align="center"><a href="https://forgeax.github.io/games/hellforge/"><img src="https://forgeax.github.io/assets/games/covers/hellforge.webp" width="100%" alt="Hellforge / 地狱熔炉" /></a><br/><sub><a href="https://forgeax.github.io/games/hellforge/"><strong>地狱熔炉</strong></a><br/>Hellforge</sub></td>
+    <td width="25%" align="center"><a href="https://forgeax.github.io/games/planet-snake/"><img src="https://forgeax.github.io/assets/games/covers/planet-snake.jpg" width="100%" alt="Planet Snake / 星球贪吃蛇" /></a><br/><sub><a href="https://forgeax.github.io/games/planet-snake/"><strong>星球贪吃蛇</strong></a><br/>Planet Snake</sub></td>
   </tr>
 </table>
 
